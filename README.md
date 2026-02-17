@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Portofolio](https://github.com/FirstTirr/portofolio)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Fortran**
 
-- 👯 I’m looking to collaborate on [Ucapan Wisuda](https://github.com/FirstTirr/ucapan-wisuda)
+- 👯 I’m looking to collaborate on [CFD-fortran](https://github.com/FirstTirr/CFD-fortran)
 
-- 🤝 I’m looking for help with [Belajar java](https://github.com/FirstTirr/belajar-java)
+- 🤝 I’m looking for help with [fortran-satelit](https://github.com/FirstTirr/fortran-satelit)
 
 - 👨‍💻 All of my projects are available at [https://github.com/FirstTirr](https://github.com/FirstTirr)
 
 - 📝 I regularly write articles on [https://Ditya.framer.com](https://Ditya.framer.com)
 
-- 💬 Ask me about **Dart**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **fathiradzans@gmail.com**
 
