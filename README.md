@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Fathir adzan Satia</h1>
-<h3 align="center" style="color:#8ee7ff;">Frontend Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Frontend Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend-7CFFCB?style=for-the-badge&labelColor=0D1117&color=7CFFCB" alt="Focus" />
@@ -34,7 +34,7 @@
 
 ## ✨ About Me
 
-I’m a frontend developer who enjoys crafting clean, responsive, and visually appealing user interfaces. I like turning ideas into experiences that feel smooth, modern, and easy to use.
+I’m a frontend developer who enjoys crafting clean, responsive, and visually appealing interfaces. I like turning ideas into experiences that feel smooth, modern, and easy to use.
 
 - 🔭 Currently working on [Portofolio](https://github.com/FirstTirr/portofolio)
 - 🌱 Currently learning **Fortran**
