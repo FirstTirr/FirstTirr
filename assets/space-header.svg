@@ -2,7 +2,7 @@
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="1400" y2="460" gradientUnits="userSpaceOnUse">
       <stop stop-color="#03040D"/>
-      <stop offset="0.48" stop-color="#080D22"/>
+      <stop offset=".48" stop-color="#080D22"/>
       <stop offset="1" stop-color="#150A2C"/>
     </linearGradient>
     <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(1080 165) rotate(140) scale(470 280)">
@@ -13,30 +13,14 @@
       <stop stop-color="#22D3EE" stop-opacity=".16"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="meteor" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#C4B5FD" stop-opacity="0"/>
-      <stop offset=".72" stop-color="#A5F3FC" stop-opacity=".5"/>
-      <stop offset="1" stop-color="#FFFFFF"/>
-    </linearGradient>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
-    <clipPath id="frame">
-      <rect width="1400" height="460" rx="28"/>
-    </clipPath>
+    <clipPath id="frame"><rect width="1400" height="460" rx="28"/></clipPath>
   </defs>
 
   <rect width="1400" height="460" rx="28" fill="url(#sky)"/>
   <rect width="1400" height="460" rx="28" fill="url(#violetGlow)"/>
   <rect width="1400" height="460" rx="28" fill="url(#blueGlow)"/>
   <g clip-path="url(#frame)">
-    <ellipse cx="1120" cy="155" rx="260" ry="180" fill="#7C3AED" opacity=".08" filter="url(#softGlow)"/>
-
-    <g fill="#F8FAFC" filter="url(#glow)">
+    <g fill="#F8FAFC" opacity=".8">
       <circle cx="92" cy="66" r="1.5"/><circle cx="185" cy="128" r="1"/><circle cx="298" cy="48" r="1.8"/>
       <circle cx="405" cy="92" r="1"/><circle cx="530" cy="38" r="1.2"/><circle cx="648" cy="112" r="1.6"/>
       <circle cx="756" cy="54" r="1"/><circle cx="873" cy="100" r="1.4"/><circle cx="1018" cy="42" r="1.6"/>
@@ -44,45 +28,18 @@
       <circle cx="1018" cy="340" r="1.4"/><circle cx="1210" cy="392" r="1.6"/><circle cx="1340" cy="320" r="1"/>
       <circle cx="176" cy="386" r="1.4"/><circle cx="420" cy="420" r="1"/><circle cx="710" cy="378" r="1.5"/>
     </g>
-
     <g stroke="#A5B4FC" stroke-opacity=".28" stroke-width="1">
       <path d="M985 112L1062 168L1138 125L1210 188L1302 142"/>
       <path d="M1062 168L1088 252L1170 276L1210 188"/>
-      <path d="M1138 125L1170 276"/>
-      <path d="M1260 284L1318 337L1372 280"/>
+      <path d="M1138 125L1170 276"/><path d="M1260 284L1318 337L1372 280"/>
     </g>
-    <g fill="#C4B5FD" filter="url(#glow)">
+    <g fill="#C4B5FD">
       <circle cx="985" cy="112" r="3"/><circle cx="1062" cy="168" r="4"/><circle cx="1138" cy="125" r="3"/>
       <circle cx="1210" cy="188" r="3.5"/><circle cx="1302" cy="142" r="2.5"/><circle cx="1088" cy="252" r="2.5"/>
-      <circle cx="1170" cy="276" r="3"/><circle cx="1260" cy="284" r="2"/><circle cx="1318" cy="337" r="3"/>
-      <circle cx="1372" cy="280" r="2"/>
+      <circle cx="1170" cy="276" r="3"/><circle cx="1260" cy="284" r="2"/><circle cx="1318" cy="337" r="3"/><circle cx="1372" cy="280" r="2"/>
     </g>
-
-    <g opacity=".9" filter="url(#glow)">
-      <path d="M760 8L655 94" stroke="url(#meteor)" stroke-width="3" stroke-linecap="round">
-        <animate attributeName="opacity" values="0;1;0" dur="4.8s" begin=".4s" repeatCount="indefinite"/>
-      </path>
-      <path d="M760 8L655 94" stroke="#E0F2FE" stroke-width="1" stroke-linecap="round">
-        <animate attributeName="opacity" values="0;1;0" dur="4.8s" begin=".4s" repeatCount="indefinite"/>
-      </path>
-      <path d="M1370 92L1268 172" stroke="url(#meteor)" stroke-width="3" stroke-linecap="round">
-        <animate attributeName="opacity" values="0;1;0" dur="6.2s" begin="2s" repeatCount="indefinite"/>
-      </path>
-      <path d="M1370 92L1268 172" stroke="#E0F2FE" stroke-width="1" stroke-linecap="round">
-        <animate attributeName="opacity" values="0;1;0" dur="6.2s" begin="2s" repeatCount="indefinite"/>
-      </path>
-      <path d="M580 430L500 365" stroke="url(#meteor)" stroke-width="2.5" stroke-linecap="round">
-        <animate attributeName="opacity" values="0;1;0" dur="5.6s" begin="1.3s" repeatCount="indefinite"/>
-      </path>
-    </g>
-
-    <g fill="#A5F3FC">
-      <path d="M905 65l2 6 6 2-6 2-2 6-2-6-6-2 6-2 2-6Z"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></path>
-      <path d="M1245 235l2 7 7 2-7 2-2 7-2-7-7-2 7-2 2-7Z"><animate attributeName="opacity" values="1;.25;1" dur="3.6s" repeatCount="indefinite"/></path>
-      <path d="M820 315l1.5 5 5 1.5-5 1.5-1.5 5-1.5-5-5-1.5 5-1.5 1.5-5Z"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></path>
-    </g>
-
-    <path d="M-50 430C250 335 390 475 620 390C830 312 1030 398 1450 270" stroke="#7C3AED" stroke-opacity=".1" stroke-width="80" filter="url(#softGlow)"/>
+    <path d="M760 8L655 94M1370 92L1268 172M580 430L500 365" stroke="#A5F3FC" stroke-opacity=".65" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M-50 430C250 335 390 475 620 390C830 312 1030 398 1450 270" stroke="#7C3AED" stroke-opacity=".1" stroke-width="80"/>
   </g>
 
   <g fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
@@ -92,7 +49,7 @@
     <text x="88" y="330" fill="#A5B4FC" font-size="14">Turning ideas into interfaces that feel out of this world.</text>
   </g>
   <g transform="translate(88 382)">
-    <circle r="5" fill="#67E8F9"><animate attributeName="opacity" values=".3;1;.3" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle r="5" fill="#67E8F9"/>
     <text x="16" y="5" fill="#67E8F9" font-family="ui-monospace, monospace" font-size="12" letter-spacing="2">SIGNAL ONLINE · INDONESIA</text>
   </g>
 </svg>
