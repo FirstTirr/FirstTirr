@@ -7,181 +7,127 @@
 <br />
 <br />
 
-<a href="https://tirr.my.id"><img src="https://img.shields.io/badge/ENTER%20THE%20ORBIT-tirr.my.id-0B1026?style=for-the-badge&logo=googlechrome&logoColor=B9F7FF&labelColor=7C5CFF" alt="Visit portfolio" /></a>
-<a href="mailto:fathiradzans@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT%20A%20SIGNAL-email-0B1026?style=for-the-badge&logo=gmail&logoColor=FF8FC7&labelColor=17204A" alt="Send an email" /></a>
+<a href="https://tirr.my.id">
+  <img src="https://img.shields.io/badge/PORTOFOLIO-tirr.my.id-0B1026?style=for-the-badge&logo=googlechrome&logoColor=B9F7FF&labelColor=7C5CFF" alt="Buka portofolio tirr.my.id" />
+</a>
+<a href="mailto:fathiradzans@gmail.com">
+  <img src="https://img.shields.io/badge/HUBUNGI-email-0B1026?style=for-the-badge&logo=gmail&logoColor=FF8FC7&labelColor=17204A" alt="Kirim email" />
+</a>
 
 <br />
 <br />
 
-`PROFILE STATUS: ONLINE`
+### Frontend Developer · UI Builder · Computational Explorer
+
+<p>
+  Membangun antarmuka digital yang jelas, responsif, dan nyaman digunakan—
+  dari ide awal sampai menjadi pengalaman yang siap dipakai.
+</p>
 
 </div>
 
-<br />
+---
 
-## `01` — Mission log
+## Tentang saya
 
-> Hi, I'm **Fathir** — a frontend developer from Indonesia who likes turning
-> blank canvases into polished, responsive, and slightly magical interfaces.
-> I care about the details people feel: rhythm, motion, clarity, and a good
-> interaction.
+Halo, saya **Fathir Adzan Satia**, frontend developer dari **Indonesia**. Saya
+senang mengubah konsep yang masih mentah menjadi produk digital yang rapi,
+fungsional, dan memiliki perhatian terhadap detail.
 
-```ts
-const mission = {
-  role: "Frontend Developer & UI-focused Builder",
-  coordinates: "Indonesia 🇮🇩",
-  currentOrbit: ["Fortran", "Computational projects", "Better UI systems"],
-  fuel: ["Curiosity", "Games", "Clean interfaces"],
-  status: "Open to interesting collaborations",
-};
-```
+Fokus utama saya adalah membangun antarmuka yang:
 
-<br />
+- **Mudah dipahami**, dengan hierarki informasi dan alur yang jelas.
+- **Responsif**, sehingga tetap nyaman digunakan di berbagai ukuran layar.
+- **Konsisten**, melalui komponen dan pola desain yang dapat digunakan kembali.
+- **Bermanfaat**, dengan menyeimbangkan estetika, performa, dan kebutuhan pengguna.
 
-## `02` — Flight deck
+Di luar pengembangan antarmuka, saya juga mengeksplorasi **Fortran** dan proyek
+komputasi untuk memperluas cara berpikir teknis serta memahami pemodelan
+numerik.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## Keahlian utama
 
-### ✦ Interface systems
+| Area | Fokus |
+| --- | --- |
+| Pengembangan frontend | HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| Sistem antarmuka | Responsive design, reusable components, UI consistency |
+| Styling dan prototyping | Tailwind CSS, Figma, visual hierarchy, interaction details |
+| Backend pendukung | Node.js, Prisma, integrasi data |
+| Engineering workflow | Git, GitHub, eksplorasi dan dokumentasi proyek |
+| Komputasi | Fortran, numerical computing, computational experiments |
 
-Responsive layouts, reusable components, and visual systems that stay clear at
-any viewport.
-
-</td>
-<td width="33%" valign="top">
-
-### ✦ Human interactions
-
-Thoughtful motion, accessible flows, and the tiny details that make a product
-feel alive.
-
-</td>
-<td width="33%" valign="top">
-
-### ✦ Deep-space experiments
-
-Computational explorations, Fortran experiments, and prototypes built to learn
-something new.
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## `03` — Technology constellation
+## Teknologi yang digunakan
 
 <div align="center">
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js`
-
-`Tailwind CSS` · `Prisma` · `Git` · `GitHub` · `Figma` · `Fortran`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
-<br />
+## Proyek pilihan
 
-## `04` — Selected missions
+### [Portofolio — tirr.my.id](https://tirr.my.id)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Situs personal untuk memperkenalkan karya, pengalaman, sertifikat, dan
+eksperimen frontend dalam satu tempat.
 
-### [Portfolio // tirr.my.id](https://tirr.my.id)
-
-My personal command center for projects, experience, certificates, and frontend
-work.
-
-**[Launch live site ↗](https://tirr.my.id)** · **[Open source ↗](https://github.com/FirstTirr/portofolio)**
-
-</td>
-<td width="50%" valign="top">
+**[Lihat situs](https://tirr.my.id)** ·
+**[Lihat kode sumber](https://github.com/FirstTirr/portofolio)**
 
 ### [CFD-fortran](https://github.com/FirstTirr/CFD-fortran)
 
-A computational fluid dynamics exploration combining numerical problem solving
-with Fortran experiments.
+Eksplorasi **computational fluid dynamics** menggunakan Fortran, dengan fokus
+pada pemecahan masalah numerik dan pembelajaran komputasi ilmiah.
 
-**[Open repository ↗](https://github.com/FirstTirr/CFD-fortran)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**[Buka repositori](https://github.com/FirstTirr/CFD-fortran)**
 
 ### [fortran-satelit](https://github.com/FirstTirr/fortran-satelit)
 
-A technical exploration of satellite-related concepts and programming ideas
-using Fortran.
+Eksperimen teknis mengenai konsep satelit dan pemrograman menggunakan Fortran.
 
-**[Open repository ↗](https://github.com/FirstTirr/fortran-satelit)**
+**[Buka repositori](https://github.com/FirstTirr/fortran-satelit)**
 
-</td>
-<td width="50%" valign="top">
+## Sedang dikerjakan
 
-### More signals
+- Menyempurnakan portofolio dan sistem antarmuka yang lebih terstruktur.
+- Memperdalam Fortran melalui proyek komputasi dan pemodelan numerik.
+- Mempelajari cara membuat pengalaman web yang lebih cepat, inklusif, dan mudah dirawat.
+- Terbuka untuk kolaborasi pada produk, eksperimen UI, dan proyek teknologi yang bermakna.
 
-Small prototypes, UI experiments, and ideas from the edge of the map.
+## Prinsip kerja
 
-**[Scan all repositories ↗](https://github.com/FirstTirr?tab=repositories)**
+> **Jelas sebelum ramai. Fungsional sebelum dekoratif. Konsisten dalam setiap
+> detail.**
 
-</td>
-</tr>
-</table>
+Saya percaya produk digital yang baik tidak hanya terlihat menarik, tetapi juga
+memiliki tujuan yang jelas, mudah digunakan, dan dapat dikembangkan dengan
+tenang dalam jangka panjang.
 
-<br />
+## Mari terhubung
 
-## `05` — Current coordinates
-
-```text
-SYSTEM STATUS
-──────────────────────────────────────────────
-● Portfolio systems       [██████████████████░░] ONLINE
-● Fortran experiments    [██████████████░░░░░░] IN PROGRESS
-● Computational projects [███████████░░░░░░░░░] SCANNING
-● Game time              [████████████████░░░░] READY
-```
-
-- 🔭 Refining my portfolio and building better frontend experiences
-- 🌱 Learning **Fortran** through computational projects
-- 🤝 Looking for interesting ideas and collaborations
-- 💬 Talk to me about **React, Next.js, UI, and frontend development**
-
-<br />
-
-## `06` — Telemetry
+Punya ide, proyek, atau percakapan menarik seputar frontend, UI, React,
+Next.js, atau komputasi? Silakan hubungi saya melalui
+**[email](mailto:fathiradzans@gmail.com)** atau kunjungi
+**[tirr.my.id](https://tirr.my.id)**.
 
 <div align="center">
 
-| Focus | Status |
-| --- | --- |
-| Portfolio systems | Online |
-| Fortran experiments | In progress |
-| Computational projects | Scanning |
-
 <br />
 
-**[View GitHub activity ↗](https://github.com/FirstTirr?tab=overview&from=2026-01-01&to=2026-12-31)**
-
-</div>
-
-<br />
-
-<div align="center">
-
-### Have a signal to send?
-
-Build something useful, weird, or beautiful with me.
-
-<br />
-
-<a href="mailto:fathiradzans@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20MISSION%20CONTROL-FF8FC7?style=for-the-badge&logo=gmail&logoColor=0B1026" alt="Contact mission control" /></a>
-
-<br />
-<br />
-
-<sub>Designed and coded by Fathir Adzan Satia · <a href="https://tirr.my.id">tirr.my.id</a></sub>
+<sub>
+  Dirancang dan dikembangkan oleh Fathir Adzan Satia ·
+  <a href="https://tirr.my.id">tirr.my.id</a>
+</sub>
 
 </div>
