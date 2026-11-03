@@ -13,7 +13,7 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=FirstTirr&label=VISITORS%20IN%20ORBIT&color=63F5C2&style=flat-square" alt="Profile views" />
+`PROFILE STATUS: ONLINE`
 
 </div>
 
@@ -75,12 +75,9 @@ something new.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,prisma,git,github,figma,fortran&theme=dark&perline=7" alt="Technology constellation" />
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js`
 
-<br />
-<br />
-
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Figma`
+`Tailwind CSS` · `Prisma` · `Git` · `GitHub` · `Figma` · `Fortran`
 
 </div>
 
@@ -158,17 +155,15 @@ SYSTEM STATUS
 
 <div align="center">
 
-<a href="https://github.com/FirstTirr">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FirstTirr&show_icons=true&hide_border=true&bg_color=0B1026&title_color=B9F7FF&text_color=C8D1F5&icon_color=63F5C2&rank_icon=github" alt="Fathir's GitHub stats" />
-</a>
-<a href="https://github.com/FirstTirr">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstTirr&layout=compact&hide_border=true&bg_color=0B1026&title_color=B9F7FF&text_color=C8D1F5&langs_count=8" alt="Fathir's top languages" />
-</a>
+| Focus | Status |
+| --- | --- |
+| Portfolio systems | Online |
+| Fortran experiments | In progress |
+| Computational projects | Scanning |
 
 <br />
-<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirstTirr&bg_color=0B1026&color=C8D1F5&line=7C5CFF&point=63F5C2&area=true&hide_border=true" alt="Fathir's contribution activity graph" width="95%" />
+**[View GitHub activity ↗](https://github.com/FirstTirr?tab=overview&from=2026-01-01&to=2026-12-31)**
 
 </div>
 
