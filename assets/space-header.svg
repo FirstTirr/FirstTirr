@@ -1,0 +1,76 @@
+<svg width="1400" height="460" viewBox="0 0 1400 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1400" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#101A3A"/>
+      <stop offset="1" stop-color="#1A0F35"/>
+    </linearGradient>
+    <radialGradient id="nebula" cx="0" cy="0" r="1" gradientTransform="translate(1030 230) rotate(160) scale(500 250)">
+      <stop stop-color="#9B5CFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#9B5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="planet" cx="32%" cy="24%" r="80%">
+      <stop stop-color="#B9F7FF"/>
+      <stop offset="0.32" stop-color="#54C7E9"/>
+      <stop offset="0.72" stop-color="#4B52B6"/>
+      <stop offset="1" stop-color="#1A1B5A"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="planetGlow">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <clipPath id="planetClip">
+      <circle cx="1095" cy="215" r="112"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1400" height="460" rx="28" fill="url(#space)"/>
+  <rect width="1400" height="460" rx="28" fill="url(#nebula)"/>
+  <path d="M-50 330C230 170 410 540 700 315C930 136 1060 230 1450 60" stroke="#7C5CFF" stroke-opacity=".16" stroke-width="70" filter="url(#planetGlow)"/>
+  <path d="M-30 365C240 220 410 520 705 320C930 170 1100 230 1430 85" stroke="#5CE1E6" stroke-opacity=".09" stroke-width="28"/>
+
+  <g fill="#fff" filter="url(#glow)">
+    <circle cx="83" cy="73" r="2"/><circle cx="176" cy="160" r="1.5"/><circle cx="277" cy="66" r="1.5"/>
+    <circle cx="355" cy="220" r="2"/><circle cx="462" cy="98" r="1.5"/><circle cx="551" cy="178" r="1.2"/>
+    <circle cx="640" cy="69" r="2"/><circle cx="733" cy="145" r="1.4"/><circle cx="824" cy="54" r="1.6"/>
+    <circle cx="907" cy="120" r="1.3"/><circle cx="1002" cy="55" r="1.8"/><circle cx="1184" cy="61" r="1.4"/>
+    <circle cx="1290" cy="142" r="2"/><circle cx="1361" cy="82" r="1.3"/><circle cx="80" cy="300" r="1.5"/>
+    <circle cx="205" cy="390" r="1.8"/><circle cx="421" cy="334" r="1.2"/><circle cx="590" cy="405" r="1.8"/>
+    <circle cx="748" cy="346" r="1.4"/><circle cx="890" cy="408" r="2"/><circle cx="1250" cy="370" r="1.6"/>
+  </g>
+
+  <g fill="#B9F7FF">
+    <path d="M224 97l3 8 8 3-8 3-3 8-3-8-8-3 8-3 3-8Z"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></path>
+    <path d="M773 245l3 8 8 3-8 3-3 8-3-8-8-3 8-3 3-8Z"><animate attributeName="opacity" values="1;.2;1" dur="3.6s" repeatCount="indefinite"/></path>
+    <path d="M1262 255l2 6 6 2-6 2-2 6-2-6-6-2 6-2 2-6Z"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></path>
+  </g>
+
+  <g transform="translate(1095 215)">
+    <ellipse rx="175" ry="48" transform="rotate(-16)" stroke="#B9F7FF" stroke-opacity=".55" stroke-width="3">
+      <animateTransform attributeName="transform" type="rotate" values="-16 0 0;-8 0 0;-16 0 0" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="154" ry="38" transform="rotate(-16)" stroke="#9B5CFF" stroke-opacity=".6" stroke-width="10" stroke-dasharray="34 18"/>
+    <circle r="112" fill="url(#planet)"/>
+    <g clip-path="url(#planetClip)" opacity=".45">
+      <path d="M965 171c62 25 110 7 172-26M960 218c60 28 126 25 240-28M977 278c54-16 118-10 205-55" stroke="#D8FEFF" stroke-width="12"/>
+      <circle cx="1050" cy="185" r="14" fill="#252A82"/><circle cx="1143" cy="250" r="22" fill="#292B79"/>
+    </g>
+    <circle r="112" stroke="#C1F8FF" stroke-opacity=".38" stroke-width="2"/>
+    <ellipse rx="156" ry="38" transform="rotate(-16)" stroke="#D9A7FF" stroke-opacity=".72" stroke-width="3" stroke-dasharray="6 16"/>
+    <animateTransform attributeName="transform" type="translate" values="1095 215;1095 202;1095 215" dur="7s" repeatCount="indefinite"/>
+  </g>
+
+  <g fill="#fff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="88" y="188" fill="#94A3FF" font-size="14" letter-spacing="4">PERSONAL SPACE STATION // 01</text>
+    <text x="84" y="252" font-size="54" font-weight="700" letter-spacing="-2">FATHIR ADZAN SATIA</text>
+    <text x="88" y="292" fill="#B9F7FF" font-size="18" letter-spacing="2">FRONTEND DEVELOPER · UI EXPLORER · BUILDER</text>
+    <text x="88" y="350" fill="#A7B0D6" font-size="14">Turning ideas into interfaces that feel out of this world.</text>
+  </g>
+  <g transform="translate(88 390)">
+    <circle r="5" fill="#63F5C2"><animate attributeName="opacity" values=".3;1;.3" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="16" y="5" fill="#63F5C2" font-family="ui-monospace, monospace" font-size="12" letter-spacing="2">SIGNAL ONLINE · INDONESIA</text>
+  </g>
+</svg>
