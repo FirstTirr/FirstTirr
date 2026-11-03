@@ -1,17 +1,17 @@
 <div align="center">
 
 <a href="https://tirr.my.id">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:12343B,100:00C2A8&text=Fathir%20Adzan%20Satia&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Frontend%20Developer%20%20%7C%20%20UI-focused%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Fathir Adzan Satia banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:111B3D,100:5B3FA3&text=Fathir%20Adzan%20Satia&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Frontend%20Developer%20%20%7C%20%20UI-focused%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Fathir Adzan Satia banner" width="100%" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+as+good+as+they+look;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+UI%2FUX;Always+learning%2C+always+building%2C+always+curious" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=B8B5FF&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+as+good+as+they+look;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+UI%2FUX;Always+learning%2C+always+building%2C+always+curious" alt="Typing introduction" />
 </a>
 
 <br />
 
 <a href="https://tirr.my.id">
-  <img src="https://img.shields.io/badge/Portfolio-tirr.my.id-7CFFCB?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117" alt="Visit portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-tirr.my.id-7CFFCB?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=050816" alt="Visit portfolio" />
 </a>
 <a href="mailto:fathiradzans@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20connect-fathiradzans%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Send email" />
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=FirstTirr&label=Profile%20views&color=7CFFCB&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=FirstTirr&label=Profile%20views&color=B8B5FF&style=flat-square" alt="Profile views" />
 
 </div>
 
